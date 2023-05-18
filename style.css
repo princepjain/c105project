@@ -1,0 +1,30 @@
+body{
+    color: antiquewhite;
+    background-color: cornflowerblue;
+}
+
+#heading{
+    font-size: large;
+    font-style: oblique;
+
+}
+
+#Webcamm,#image_result {
+    border-width: 2px;
+    border-style: double;
+    border-color: black;
+    width: 400px;
+    height: 400px;
+}
+
+#result_object,#result_accuracy{
+    font-size: 22px;
+}
+
+#capture_image,#identify_image{
+    background-color:black;
+    border-width: 2px;
+    border-style: double;
+    border-color:wheat;
+    font-size: large;
+}
